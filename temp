@@ -1,0 +1,2 @@
+    image_extensions = {'.jpg', '.jpeg', '.png', '.gif', '.heic', '.nef', '.tiff', 'webp', '.dng.}
+    video_extensions = {'.mp4', '.avi', '.mov', '.flv', '.mp', '.m4v', '.wmv'}

@@ -1,0 +1,3 @@
+watchdog
+py7zr
+auto-py-to-exe

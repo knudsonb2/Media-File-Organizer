@@ -1,0 +1,15 @@
+# .gitignore
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore Python virtual environment directories
+venv/
+.env/
+
+# Ignore log files
+*.log
+
+# Ignore any .DS_Store (Mac OS metadata)
+.DS_Store
